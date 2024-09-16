@@ -1,0 +1,10 @@
+{
+    "weather_app_key":"FQ79qUNN6tfT8FXFBmhXJVCUUWgv6opI",
+    "location_api":"http://dataservice.accuweather.com/locations/v1/cities/autocomplete?apikey={apikey}&q={query}",
+    "current_location":"http://dataservice.accuweather.com/locations/v1/cities/geoposition/search?apikey={apikey}&q={query}",
+    "current_weather_api":"http://dataservice.accuweather.com/currentconditions/v1/{key}?apikey={apikey}",
+    "12hours_forcast":"http://dataservice.accuweather.com/forecasts/v1/hourly/12hour/{key}?apikey={apikey}",
+    "5days_forcast":"http://dataservice.accuweather.com/forecasts/v1/daily/5day/{key}?apikey={apikey}",
+    "weather_icons_url":"https://developer.accuweather.com/sites/default/files/{weatherIconNumber}-s.png",
+    "get_location_info":"http://dataservice.accuweather.com/locations/v1/{key}?apikey={apikey}"
+}

@@ -1,0 +1,15 @@
+{
+    "SERVER_URL":"http://localhost:8080",
+    "GET_CURRENT_LOCATION":{
+        "URL":"/api/getCurrentLocation",
+        "METHOD":"POST"
+    },
+    "GET_WEATHER":{
+        "URL":"/api/getWeather",
+        "METHOD":"POST"
+    },
+    "SEARCH":{
+        "URL":"/api/search",
+        "METHOD":"POST"
+    }
+}
